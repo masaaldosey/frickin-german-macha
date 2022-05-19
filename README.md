@@ -1,5 +1,5 @@
 # frickin-german-macha
-I have to learn frickin German macha. So, I made this repository.
+I need to learn frickin German macha. So, I made this repository.
 
 > :question: So, what is your plan of action boi?
 
