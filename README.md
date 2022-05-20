@@ -31,5 +31,5 @@ I choose to learn via both as it covers almost all of the cases out there. I col
 - **green** for *das* (neutral),
 
 and created a set of [flashcards](flashcards/noun_gender.pdf). The cards can be printed two-sided on a A4 sheet. 
-I did this as I don't want to reduce my screentime. Also, who doesn't love some time away from gadgets and do 
+I did this as I want to reduce my screentime. Also, who doesn't love some time away from gadgets and do 
 things the old way once in a while. :wink:
